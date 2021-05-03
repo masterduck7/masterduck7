@@ -6,4 +6,4 @@
 #### ⭐ My fauvorite stack is Python (Django or Flask) and Javascript (React JS or Angular). But I've worked in some projects with another languages like NodeJS or Typescript.
 #### 🌱 I’m currently learning more about React JS to improve my frontend skills.
 
-#### 💬 You can reach me through my [Personal Website](https://www.lpsoftware.space)
+#### 💬 You can reach me through my [Personal Website](https://www.lpsoftware.space) or my [Linkedin](https://www.linkedin.com/in/luis-ramirez-duarte/)
